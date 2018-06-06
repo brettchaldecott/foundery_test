@@ -7,7 +7,7 @@ package com.foundery.galaxy.parser;
 
 /**
  *
- * @author ubuntu
+ * @author Brett Chaldecott
  */
 public class FounderyMain {
 
